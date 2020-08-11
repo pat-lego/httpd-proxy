@@ -17,6 +17,7 @@ From the root of the project open a terminal and run `vagrant up` this will setu
 ### Ports
 
 443 -> apache_web
+
 80 -> apache_lb
 
 ### Default URL
