@@ -54,6 +54,13 @@ sudo cp /vagrant/httpd/httpd.conf /etc/httpd/conf
 #
 sudo systemctl start httpd
 
+# Enable the httpd service to start at boot
+# To view the services that are listed at boot time run this command
+# systemctl list-unit-files | grep enabled
+# There you will see httpd.service
+#
+sudo systemctl enable httpd
+
 # Use systemctl to check the servers status
 #
 sudo systemctl status httpd
