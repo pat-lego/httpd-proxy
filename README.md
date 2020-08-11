@@ -1,4 +1,4 @@
-# BTS Apache HTTPD System
+# Apache HTTPD System
 
 Server used to proxy AEM and provide mod_proxy functionality.
 
