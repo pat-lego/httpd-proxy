@@ -42,4 +42,5 @@ Second issue is that the static ip I gave these machines may be inaccessible in 
 ## Contributors
 
 [Patrique Legault](https://github.com/pat-lego)
+
 [Guillaume Clement](https://github.com/guillaumecleme)
